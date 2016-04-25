@@ -52,11 +52,12 @@ section{
 	padding: 10px;
 	display: inline-block;
 	background-color: #DC143C;
+	background-position: center;
 }
 
 section img{
 width: 100%;
-background-position: center;
+
 
 }
 footer{
