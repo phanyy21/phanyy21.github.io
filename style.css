@@ -57,9 +57,13 @@ section{
 
 section img{
 width: 100%;
-
-
 }
+
+.pixel {
+	padding-left: 5%
+}
+
+
 footer{
 	text-align: center;
 	background-color: #B68CB8;
