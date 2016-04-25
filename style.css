@@ -52,12 +52,18 @@ section{
 	padding: 10px;
 	display: inline-block;
 	background-color: #DC143C;
-	background-position: center;
+
 }
 
 section img{
 width: 100%;
 
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
 
 }
 footer{
