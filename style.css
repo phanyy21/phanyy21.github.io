@@ -59,13 +59,6 @@ section img{
 width: 100%;
 
 }
-
-img.displayed {
-    display: block;
-    margin-left: center;
-    margin-right: center;
-
-}
 footer{
 	text-align: center;
 	background-color: #B68CB8;
